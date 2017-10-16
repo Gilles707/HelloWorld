@@ -1,4 +1,5 @@
 # HelloWorld
 First repository
 
-New ligne added by Gilles
+New line added by Gilles
+Second line added by Gilles 
